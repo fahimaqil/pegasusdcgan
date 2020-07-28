@@ -9,4 +9,4 @@ This project focused on using both machine learning and deep learning technique 
 
 ## Theory Behind DCGAN
 
-![alt text](https://github.com/fahimaqil/pegasusdcgan/tree/master/report/info.png?raw=true "Title")
+![alt text](https://github.com/fahimaqil/pegasusdcgan/tree/master/report/info.png)
