@@ -10,3 +10,7 @@ This project focused on using both machine learning and deep learning technique 
 ## Theory Behind DCGAN
 
 ![alt text](/report/info.png)
+
+## Result
+
+![alt text](/report/result.png)
