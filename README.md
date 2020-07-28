@@ -1,5 +1,5 @@
 # Implementation of Deep Convolutional Generative Adversarial Network (DCGAN)
-This project focused on using both machine learning and deep learning technique which create images of pegasus using the combination of both horse and airplane image classes
+This project focused on using both machine learning and deep learning technique which create images of pegasus using the combination of both horse and airplane image classes. The report of the project can be viewed here https://github.com/fahimaqil/pegasusdcgan/blob/master/report/bpxd72.pdf
 
 ## Tools
 1. The project used PyTorch as the main framework for machine learning.
@@ -14,3 +14,8 @@ This project focused on using both machine learning and deep learning technique 
 ## Result
 
 ![alt text](/report/result.png)
+
+## Reference
+
+![alt text](/report/reference.png)
+
